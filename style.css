@@ -1,0 +1,25 @@
+.container-fluid{
+    background-color: #DAE7FF;
+}
+
+body{
+    font-family: "Work Sans", sans-serif;
+}
+
+.image-tool{
+    width: 80px;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 3px;
+
+}
+
+
+ul{
+    list-style: none;
+    
+}
